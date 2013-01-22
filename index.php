@@ -1,5 +1,6 @@
 <?php
 
-echo('Hello World!');
+echo('Jlinros: "Hello World!"');
+echo('Ahvenas: "Well, hello there yourself!".');
 
 ?>
